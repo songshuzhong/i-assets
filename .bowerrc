@@ -1,3 +1,6 @@
 {
-  "directory": "./public/bower_components"
+  "directory": "./public/lib",
+  "strict-ssl"  : false,
+  "timeout": 120000,
+  "registry": "https://registry.bower.io"
 }
